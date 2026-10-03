@@ -9,7 +9,42 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "teams": "Teams",
+    "updates": "Updates",
+    "media": "Media"
+  },
+  "guide": {
+    "overviewTitle": "Shorekeeper Guide — Builds, Rotation & Beginner Tips",
+    "overviewDescription": "Start here for Shorekeeper guides covering her build, F2P options, rotation, story quest, and lore so you can play the 5-star Spectro support with confidence."
+  },
+  "characters": {
+    "overviewTitle": "Shorekeeper Character Guide — Voice Actor, Birthday & Lore",
+    "overviewDescription": "Everything about Shorekeeper as a character: her Rover relationship, voice actor, birthday, appearance, and personality."
+  },
+  "mechanics": {
+    "overviewTitle": "Shorekeeper Kit & Mechanics — Skills, Rotation & Ultimate",
+    "overviewDescription": "Learn how Shorekeeper's kit works, including her Intro Skill, Enhanced Intro Skill, Ultimate, abilities, and the best rotation to keep her buffs active."
+  },
+  "items": {
+    "overviewTitle": "Shorekeeper Items & Builds — Weapon, Echoes & Materials",
+    "overviewDescription": "Plan Shorekeeper's build with her signature weapon, best echoes, echo build, ascension materials, and full farming material list."
+  },
+  "teams": {
+    "overviewTitle": "Shorekeeper Teams — Best Comps, Jinhsi & Chisa Synergy",
+    "overviewDescription": "Find the best Shorekeeper team comps, including Jinhsi and Chisa pairings, plus role-by-role advice for the healer and support slots."
+  },
+  "updates": {
+    "overviewTitle": "Shorekeeper Updates — Rerun, Banner & Release Date",
+    "overviewDescription": "Track Shorekeeper rerun news, banner schedule, release date, and whether her S1 Sequence Node is worth pulling."
+  },
+  "media": {
+    "overviewTitle": "Shorekeeper Media — Wallpaper, Fanart, OST & Theme",
+    "overviewDescription": "Browse Shorekeeper wallpapers, fanart, official art, her OST, and theme for downloads and desktop inspiration."
   },
   "home": {
     "meta": {
@@ -314,7 +349,7 @@
             },
             {
               "label": "B",
-              "detail": "Mixed 2-piece sets - a budget placeholder while you farm the full set"
+              "detail": "Mixed 2-piece sets - a budget stand-in while you farm the full set"
             },
             {
               "label": "C",
@@ -456,12 +491,11 @@
       "secondary": "Play Wuthering Waves"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "activeCodes": "Latest Updates",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "View all updates",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -487,10 +521,10 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "WuWa Team Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Resonator Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanicsGuides": "Resonator Guides",
+    "teamGuides": "Boss Guides",
+    "itemGuides": "Build Guide"
   }
 }

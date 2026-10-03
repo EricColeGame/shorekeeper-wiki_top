@@ -225,11 +225,11 @@ export async function getContent(contentType: string, slugSegments: string[], la
  * 导航分组结构（用于动态 Wiki Navigation）
  */
 export interface NavGroup {
-  /** 分组标题，来自目录名转人类可读格式，如 "bosses" → "Bosses" */
+  /** 分组标题，来自目录名转人类可读格式，如 "teams" → "Team Comps" */
   title: string;
   /** 该分组下的文章数量 */
   count: number;
-  /** 分组 slug（即目录名，如 "bosses"） */
+  /** 分组 slug（即目录名，如 "teams"） */
   slug: string;
   /** 文章链接列表 */
   links: Array<{ label: string; href: string; badge?: string }>;
@@ -237,39 +237,65 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  characters: "Characters",
+  mechanics: "Mechanics & Kit",
+  items: "Items & Builds",
+  teams: "Team Comps",
+  updates: "Updates & Banners",
+  media: "Media",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
   guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  characters: "キャラクター",
+  mechanics: "メカニクス",
+  items: "アイテム & ビルド",
+  teams: "チーム編成",
+  updates: "アップデート",
+  media: "メディア",
+};
+
+// 韓国語分组标题映射
+const GROUP_TITLES_KO: Record<string, string> = {
+  guide: "초보자 가이드",
+  characters: "캐릭터",
+  mechanics: "메커니즘",
+  items: "아이템 & 빌드",
+  teams: "팀 구성",
+  updates: "업데이트",
+  media: "미디어",
+};
+
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guía para principiantes",
+  characters: "Personajes",
+  mechanics: "Mecánicas",
+  items: "Objetos y builds",
+  teams: "Equipos",
+  updates: "Actualizaciones",
+  media: "Medios",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  ko: GROUP_TITLES_KO,
+  es: GROUP_TITLES_ES,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  ko: "개요",
+  es: "Resumen",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "characters", "mechanics", "items", "teams", "updates", "media",
 ];
 
 /**

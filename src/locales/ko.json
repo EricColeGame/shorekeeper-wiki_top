@@ -1,1 +1,530 @@
-{}
+{
+  "site": {
+    "name": "파수인 위키",
+    "shortName": "파수인",
+    "tagline": "빌드, 에코, 팀, 재료 가이드",
+    "description": "명조: 워더링 웨이브의 파수인 완전 가이드. 빌드, 무기, 에코, 재료, 팀, 스킬, 플레이 팁을 다룹니다.",
+    "legalNotice": "비공식 팬 위키. 플레이어가 플레이어를 위해 만들었습니다. Kuro Games와 제휴 관계가 없습니다."
+  },
+  "nav": {
+    "home": "홈",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환",
+    "guide": "가이드",
+    "characters": "캐릭터",
+    "mechanics": "메커니즘",
+    "items": "아이템",
+    "teams": "팀",
+    "updates": "업데이트",
+    "media": "미디어"
+  },
+  "guide": {
+    "overviewTitle": "파수인 가이드 — 빌드, 로테이션 & 초보자 팁",
+    "overviewDescription": "파수인의 빌드, 무과금 옵션, 로테이션, 스토리 퀘스트, 설정을 다루는 가이드는 여기서 시작하세요. 5성 스펙트로 서포터를 자신 있게 운용할 수 있습니다."
+  },
+  "characters": {
+    "overviewTitle": "파수인 캐릭터 가이드 — 성우, 생일 & 설정",
+    "overviewDescription": "파수인의 캐릭터 정보를 총정리. 방랑자와의 관계, 성우, 생일, 외모, 성격까지."
+  },
+  "mechanics": {
+    "overviewTitle": "파수인 키트 & 메커니즘 — 스킬, 로테이션 & 궁극기",
+    "overviewDescription": "파수인의 키트를 알아보세요. 인트로 스킬, 강화 인트로 스킬, 궁극기, 각종 능력, 버프를 유지하는 최적 로테이션을 다룹니다."
+  },
+  "items": {
+    "overviewTitle": "파수인 아이템 & 빌드 — 무기, 에코 & 재료",
+    "overviewDescription": "전용 무기, 최적 에코, 에코 빌드, 돌파 재료, 전체 파밍 재료 목록으로 파수인 빌드를 계획하세요."
+  },
+  "teams": {
+    "overviewTitle": "파수인 팀 — 최고 조합, 금희 & Chisa 시너지",
+    "overviewDescription": "금희, Chisa 조합을 포함한 파수인 최고의 팀 조합과 힐러·서포터 자리별 조언을 확인하세요."
+  },
+  "updates": {
+    "overviewTitle": "파수인 업데이트 — 복각, 배너 & 출시일",
+    "overviewDescription": "파수인 복각 소식, 배너 일정, 출시일, S1 공명 체인을 뽑을 가치가 있는지 추적하세요."
+  },
+  "media": {
+    "overviewTitle": "파수인 미디어 — 배경화면, 팬아트, OST & 테마",
+    "overviewDescription": "파수인 배경화면, 팬아트, 공식 아트, OST, 테마를 둘러보고 다운로드와 바탕화면 꾸미기에 활용하세요."
+  },
+  "home": {
+    "meta": {
+      "title": "파수인 위키 - 빌드, 팀 & 재료",
+      "description": "명조: 워더링 웨이브 플레이어를 위한 최고의 빌드, 무기, 에코, 재료, 스킬, 팀, 플레이 가이드를 파수인 위키에서 확인하세요."
+    },
+    "hero": {
+      "eyebrow": "5성 서포터 공명자 가이드",
+      "title": "파수인 위키",
+      "description": "명조: 워더링 웨이브 플레이어를 위한 빌드, 무기, 에코, 재료, 팀, 스킬, 플레이 팁을 담은 파수인 완전 가이드.",
+      "stats": [
+        "누적 플레이어 1,000만 명 이상",
+        "5성 캐릭터",
+        "사용 가능한 코드 0개",
+        "매주 업데이트"
+      ],
+      "primaryCta": "빌드 가이드",
+      "secondaryCta": "팀 조합",
+      "tertiaryCta": "파밍 가이드",
+      "videoLabel": "공식 미디어"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작",
+      "title": "당신의 파수인 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "파수인이 처음인가요? 웨이브플레이트를 한 장이라도 쓰기 전에 서포터 역할, 에너지 회복 중심 빌드 우선순위, 필드 설치 후 교체 로테이션을 익히세요."
+        },
+        {
+          "number": "2",
+          "title": "재료 파밍",
+          "description": "보스 드롭, 특산품, 적 재료를 웨이브플레이트 효율적으로 파밍하는 순서로 모든 돌파 단계와 포르테 강화를 계획하세요."
+        },
+        {
+          "number": "3",
+          "title": "최고의 팀 조합",
+          "description": "금희와 카멜리아부터 카를로타, 기염까지 치명타 버프 효과가 큰 딜러진을 확인하세요."
+        },
+        {
+          "number": "4",
+          "title": "에코 빌드 가이드",
+          "description": "Rejuvenating Glow와 Moonlit Clouds 중 하나를 고르고, 버프 계수의 기준이 되는 에너지 회복과 HP 주 옵션을 확정하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기",
+      "quickLinks": [
+        "파수인 빌드",
+        "재료 파밍",
+        "팀 조합",
+        "에코 세트",
+        "로테이션 가이드"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "파수인 빠른 가이드",
+          "description": "역할, 최적 무기, 에코 세트, 팀, 로테이션 습관을 짧게 정리했습니다.",
+          "href": "/guide/shorekeeper-quick-guide"
+        },
+        {
+          "badge": "인기",
+          "title": "파수인 빌드 가이드",
+          "description": "완벽하게 세팅된 서포터 빌드를 위한 스탯 우선순위, 에코 세트, 무기, 팀 조합.",
+          "href": "/guide/shorekeeper-build-guide"
+        },
+        {
+          "badge": "인기",
+          "title": "파수인 재료",
+          "description": "돌파와 포르테에 필요한 모든 재료, 획득 위치, 가장 효율적인 파밍 순서.",
+          "href": "/items/shorekeeper-materials"
+        },
+        {
+          "badge": "업데이트됨",
+          "title": "파수인 팀 조합",
+          "description": "모든 로스터를 위한 최고의 딜 조합, 로테이션 단계, 저예산 대체.",
+          "href": "/teams/shorekeeper-team-comp"
+        },
+        {
+          "badge": "인기",
+          "title": "파수인 에코",
+          "description": "서포터 빌드에 맞는 최적 세트, 주 옵션, 부 옵션 우선순위.",
+          "href": "/items/shorekeeper-echoes"
+        },
+        {
+          "badge": "신규",
+          "title": "파수인 무기",
+          "description": "Stellar Symphony와 무료 및 저예산 증폭기 선택지를 비교하세요.",
+          "href": "/items/shorekeeper-weapon"
+        },
+        {
+          "badge": "신규",
+          "title": "파수인 로테이션",
+          "description": "필드 설치 후 교체로 버프를 유지하고 필드 시간을 낭비하지 않는 순서.",
+          "href": "/mechanics/shorekeeper-rotation"
+        },
+        {
+          "badge": "인기",
+          "title": "파수인 스토리 & 설정",
+          "description": "블랙 쇼어 배경, 방랑자와의 유대, 공식 아트.",
+          "href": "/characters/shorekeeper-personality"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "파수인이란?",
+      "paragraphs": [
+        "파수인은 명조: 워더링 웨이브의 한정 5성 스펙트로 공명자로, 증폭기를 사용하며 힐러·서포터 자리를 맡습니다. 개인 딜을 추구하기보다 지속 치유로 팀을 살리고, 팀 전체 치명타 확률과 치명타 피해 버프로 모든 딜러를 강화합니다.",
+        "전용 스텔라리엄 필드는 활성 캐릭터를 따라다니므로 위치를 고정시키지 않으며, 버프는 공격력이 아니라 에너지 회복에 비례해 강해집니다. 이 설계 덕분에 그녀는 게임에서 가장 유연한 유지형 유닛 중 하나이자 많은 엔드게임 팀 조합에 등장하는 이유가 됩니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "Kuro Games"
+        },
+        {
+          "label": "플랫폼",
+          "value": "PC, 모바일 & PS5"
+        },
+        {
+          "label": "장르",
+          "value": "오픈 월드 액션 RPG"
+        },
+        {
+          "label": "속성",
+          "value": "스펙트로"
+        },
+        {
+          "label": "무기",
+          "value": "증폭기"
+        },
+        {
+          "label": "역할",
+          "value": "힐러 & 서포터"
+        },
+        {
+          "label": "희귀도",
+          "value": "5성"
+        }
+      ],
+      "cta": "모든 가이드 둘러보기"
+    },
+    "explore": {
+      "title": "파수인 위키 둘러보기",
+      "description": "파수인의 핵심 가이드를 한곳에 모았습니다. 빌드, 재료, 팀, 스킬, 에코, 무기, 초보자 팁, 스토리를 핵심 정보 위주로 정리했습니다.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "파수인 빌드 가이드",
+          "description": "이 모듈은 무기, 에코 선택, 스탯, 스킬 우선순위, 서포터 세팅을 포함한 추천 파수인 빌드를 다룹니다. 획득 후 최적화 방법을 찾는 플레이어를 겨냥합니다.",
+          "href": "/guide/shorekeeper-build-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "역할",
+              "detail": "팀 전체를 강화하는 스펙트로 힐러 겸 서포터"
+            },
+            {
+              "label": "스탯",
+              "detail": "에너지 회복 우선, 그다음 HP%와 치유 보너스"
+            },
+            {
+              "label": "무기",
+              "detail": "Stellar Symphony가 최선, 강력한 무료 대안도 존재"
+            },
+            {
+              "label": "에코",
+              "detail": "로테이션에 따라 Rejuvenating Glow 또는 Moonlit Clouds"
+            },
+            {
+              "label": "로테이션",
+              "detail": "필드를 설치하고 치명타 버프를 넘긴 뒤 빠르게 교체"
+            },
+            {
+              "label": "팀",
+              "detail": "금희, 카멜리아, 카를로타, 기염 딜러진과 잘 맞음"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "파수인 재료 가이드",
+          "description": "이 모듈은 돌파 아이템, 스킬 강화 자원, 준비 요건을 포함한 파수인 육성 재료의 완전한 파밍 가이드를 제공합니다. 캐릭터 육성 전에 자원을 계획하는 데 도움이 됩니다.",
+          "href": "/items/shorekeeper-materials",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "보스 드롭",
+              "detail": "오픈 월드 보스 도전에서 획득하는 돌파 보스 재료"
+            },
+            {
+              "label": "드롭",
+              "detail": "합성기에서 상위로 변환되는 LF~FF 잔상 드롭"
+            },
+            {
+              "label": "특산품",
+              "detail": "매일 오픈 월드 루트에서 채집하는 지역 특산품"
+            },
+            {
+              "label": "크레딧",
+              "detail": "셸 크레딧은 돌파, 포르테, 무기, 에코 튜닝에 사용됩니다"
+            },
+            {
+              "label": "포르테",
+              "detail": "스킬 강화에는 위조 도전과 주간 보스 재료"
+            },
+            {
+              "label": "웨이브플레이트",
+              "detail": "하루 약 240 웨이브플레이트가 파밍 속도의 기준"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "파수인 팀 가이드",
+          "description": "이 모듈은 파수인에게 추천하는 팀 구성, 호환되는 공명자, 서포터 로테이션을 설명합니다. 다양한 전투 팀에서 그녀의 위치를 이해하도록 돕는 데 초점을 둡니다.",
+          "href": "/teams/shorekeeper-team-comp",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "금희",
+              "detail": "파수인의 필드를 폭딜 타이밍으로 바꾸는 스펙트로 캐리"
+            },
+            {
+              "label": "카멜리아",
+              "detail": "상시 치명타 확률 버프로 강해지는 인멸 딜러"
+            },
+            {
+              "label": "카를로타",
+              "detail": "끊임없는 치유로 뒷받침되는 응결 버스트 캐리"
+            },
+            {
+              "label": "기염",
+              "detail": "빠르고 버프에 잘 맞는 로테이션의 기류 하이퍼캐리"
+            },
+            {
+              "label": "저예산",
+              "detail": "4성 서포터와 무료 무기로 팀 비용을 낮게 유지"
+            },
+            {
+              "label": "로테이션",
+              "detail": "스킬, 포르테, 해방, 아웃트로: 필드 시간이 끝나기 전에 교대"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "파수인 스킬 가이드",
+          "description": "이 모듈은 파수인의 능력, 포르테 회로, 공명 스킬, 공명 해방, 스킬 강화 우선순위를 설명합니다. 신규와 숙련 플레이어 모두 그녀의 전투 메커니즘을 이해하는 데 도움이 됩니다.",
+          "href": "/mechanics/shorekeeper-abilities",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "스킬",
+              "detail": "공명 스킬이 활성 캐릭터 주위에 치유 필드를 전개"
+            },
+            {
+              "label": "포르테",
+              "detail": "「통찰」이 축적 자원을 강화 치유와 버프로 전환"
+            },
+            {
+              "label": "궁극기",
+              "detail": "공명 해방이 팀을 치유하고 치명타 버프 필드를 엽니다"
+            },
+            {
+              "label": "아웃트로",
+              "detail": "교체로 등장하는 공명자에게 치명타 확률 버프 전달"
+            },
+            {
+              "label": "인트로",
+              "detail": "등장 시 피해를 입히고 서포트 효과를 추가"
+            },
+            {
+              "label": "패시브",
+              "detail": "고유 스킬이 추가 치유와 에너지 회복 보너스를 제공"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "파수인 에코 가이드",
+          "description": "이 모듈은 파수인에게 추천하는 에코 세트, 주 옵션, 부 옵션, 에코 파밍 우선순위를 다룹니다. 에코 빌드와 엔드게임 최적화 검색을 겨냥합니다.",
+          "href": "/items/shorekeeper-echoes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Rejuvenating Glow - 치유 발동 시 팀 공격력 버프, 기본 선택"
+            },
+            {
+              "label": "A",
+              "detail": "Moonlit Clouds - 빠른 퀵스왑 팀을 위한 더 큰 아웃트로 공격력 버프"
+            },
+            {
+              "label": "B",
+              "detail": "혼합 2세트 - 풀세트를 파밍하는 동안의 저예산 대체품"
+            },
+            {
+              "label": "C",
+              "detail": "스펙트로 피해와 치명타 빌드 - 순수 서포터에게는 가치가 낮음"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "파수인 무기 가이드",
+          "description": "이 모듈은 전용 옵션과 다양한 예산대의 대안을 포함해 파수인에게 추천하는 증폭기를 비교합니다. 효율적인 장비 선택에 도움이 됩니다.",
+          "href": "/items/shorekeeper-weapon",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Stellar Symphony",
+              "detail": "에너지 회복과 팀 버프를 갖춘 전용 5성 증폭기"
+            },
+            {
+              "label": "Jinzhou Keeper",
+              "detail": "해방 회복을 앞당겨 주는 무료 4성 증폭기"
+            },
+            {
+              "label": "Variation",
+              "detail": "치명타 버프 계수를 뒷받침하는 4성 에너지 회복 옵션"
+            },
+            {
+              "label": "Call of the Abyss",
+              "detail": "전용 배너가 부담스러울 때의 5성 대안"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "파수인 초보자 가이드",
+          "description": "이 모듈은 파수인의 역할, 게임플레이 기본, 로테이션 흐름, 초보자 친화적인 투자 우선순위를 소개합니다. 최근에 캐릭터를 획득한 플레이어를 위해 설계되었습니다.",
+          "href": "/guide/shorekeeper-quick-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "딜 장비를 노리기 전에 단독 유지 역할로 90레벨까지 올리기"
+            },
+            {
+              "label": "2",
+              "detail": "치명타 버프가 상한에 도달할 때까지 에너지 회복 쌓기"
+            },
+            {
+              "label": "3",
+              "detail": "에너지 회복 부 옵션이 붙은 증폭기를 장착"
+            },
+            {
+              "label": "4",
+              "detail": "공명 해방과 포르테 회로 강화 우선"
+            },
+            {
+              "label": "5",
+              "detail": "필드 설치 후 교체 로테이션을 연습해 버프가 끊기지 않게 하기"
+            },
+            {
+              "label": "6",
+              "detail": "돌파 탭에 나열된 순서대로 돌파 재료를 파밍"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "파수인 스토리 가이드",
+          "description": "이 모듈은 파수인의 공식 캐릭터 배경, 스토리 정보, 공식 홍보 자료를 다룹니다. 설정과 캐릭터 세부 정보를 찾는 사용자를 위한 것입니다.",
+          "href": "/characters/shorekeeper-personality",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "설정",
+              "detail": "지역을 운영하는 시스템과 연결된 블랙 쇼어의 수호자"
+            },
+            {
+              "label": "방랑자",
+              "detail": "방랑자와의 유대가 블랙 쇼어 스토리를 이끈다"
+            },
+            {
+              "label": "세력",
+              "detail": "블랙 쇼어 세력과 솔라리스-3에서의 역할"
+            },
+            {
+              "label": "성우",
+              "detail": "차분하고 절제된 연기를 맡은 성우를 만나보세요"
+            },
+            {
+              "label": "아트",
+              "detail": "공식 스플래시 아트, 배경화면, 캐릭터 테마"
+            },
+            {
+              "label": "생일",
+              "detail": "그녀의 생일과 팬들이 매년 확인하는 정보"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "파수인 FAQ",
+      "description": "역할과 빌드부터 팀과 출시까지, 파수인에 관한 가장 흔한 질문에 빠르게 답합니다.",
+      "items": [
+        {
+          "question": "명조: 워더링 웨이브의 파수인은 무엇인가요?",
+          "answer": "파수인은 증폭기를 사용하는 한정 5성 스펙트로 공명자로 힐러·서포터 자리를 맡습니다. 지속 치유로 팀을 유지하고, 팀 전체 치명타 확률과 치명타 피해 버프로 딜 상한을 높입니다."
+        },
+        {
+          "question": "파수인에게 가장 필요한 스탯은 무엇인가요?",
+          "answer": "치명타 버프가 에너지 회복에 비례해 강해지므로 에너지 회복이 최우선입니다. 그다음 HP%와 치유 보너스를 쌓아 회복량을 높이고, 치명타 옵션은 그녀에게 거의 가치가 없다고 보면 됩니다."
+        },
+        {
+          "question": "파수인의 최고 무기는 무엇인가요?",
+          "answer": "전용 5성 증폭기 Stellar Symphony가 최고의 선택입니다. Jinzhou Keeper와 Variation은 필요한 에너지 회복을 제공하는 강력한 무료 및 저예산 옵션입니다."
+        },
+        {
+          "question": "파수인과 가장 잘 맞는 팀은 무엇인가요?",
+          "answer": "파수인의 버프는 속성을 가리지 않으므로 거의 모든 딜러진에 어울립니다. 금희, 카멜리아, 카를로타, 기염 팀 모두 그녀를 두 번째 버퍼나 전담 딜러와 함께 편성하면 이점을 얻습니다."
+        },
+        {
+          "question": "파수인은 어떤 에코 세트를 사용해야 하나요?",
+          "answer": "Rejuvenating Glow는 치유 발동 시 팀 공격력 버프를 주는 안전한 기본 선택이며, Moonlit Clouds는 아웃트로 스킬을 자주 쓰는 빠른 퀵스왑에서 더 강력합니다."
+        },
+        {
+          "question": "파수인은 언제 출시되었나요?",
+          "answer": "파수인은 2024년 9월 말 명조: 워더링 웨이브 버전 1.3 전반부에 한정 5성 배너로 등장했습니다."
+        },
+        {
+          "question": "파수인은 키울 가치가 있나요?",
+          "answer": "네. 그녀는 한 자리에서 힐러와 버퍼를 모두 대체해 팀에 추가 딜 자리를 만들어 주며, 게임에서 가장 가치 있는 서포터 중 하나입니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "파수인을 마스터할 준비가 되셨나요?",
+      "description": "첫 빌드부터 엔드게임 팀 조합까지, 커뮤니티 위키가 무료로 최신 명조: 워더링 웨이브 가이드를 제공합니다.",
+      "primary": "파수인 가이드 읽기",
+      "secondary": "명조: 워더링 웨이브 플레이"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "최신 업데이트",
+    "updated": "업데이트됨",
+    "viewAllCodes": "모든 업데이트 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션에서",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "파수인 위키",
+    "about": "파수인 위키는 빌드, 무기, 에코, 재료, 팀, 스킬, 그리고 명조: 워더링 웨이브의 필수 지식을 신규와 베테랑 플레이어 모두에게 제공하는 독립 팬 제작 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 파수인 위키. Kuro Games 및 명조: 워더링 웨이브와 제휴 관계가 없습니다.",
+    "description": "Kuro Games의 오픈 월드 액션 RPG. 명조: 워더링 웨이브에서 파수인 빌드, 에코, 팀 조합을 마스터하세요.",
+    "playGame": "명조: 워더링 웨이브 플레이",
+    "officialDiscord": "공식 Discord",
+    "officialYoutube": "공식 YouTube",
+    "vvBuilder": "WuWa 팀 플래너",
+    "beginnerGuide": "초보자 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관",
+    "mechanicsGuides": "공명자 가이드",
+    "teamGuides": "보스 가이드",
+    "itemGuides": "빌드 가이드"
+  }
+}

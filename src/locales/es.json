@@ -1,1 +1,530 @@
-{}
+{
+  "site": {
+    "name": "Shorekeeper Wiki",
+    "shortName": "Shorekeeper",
+    "tagline": "Guías de builds, ecos, equipos y materiales",
+    "description": "Guía completa de Shorekeeper para Wuthering Waves que cubre builds, armas, ecos, materiales, equipos, habilidades y consejos de juego.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores. No está afiliada a Kuro Games."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Personajes",
+    "mechanics": "Mecánicas",
+    "items": "Objetos",
+    "teams": "Equipos",
+    "updates": "Novedades",
+    "media": "Multimedia"
+  },
+  "guide": {
+    "overviewTitle": "Guía de Shorekeeper — builds, rotación y consejos para principiantes",
+    "overviewDescription": "Empieza aquí para ver guías de Shorekeeper que cubren su build, opciones F2P, rotación, misión de historia y lore, para que juegues con confianza a la soporte de Espectro de 5 estrellas."
+  },
+  "characters": {
+    "overviewTitle": "Guía de personaje de Shorekeeper — actriz de voz, cumpleaños y lore",
+    "overviewDescription": "Todo sobre Shorekeeper como personaje: su relación con Rover, actriz de voz, cumpleaños, apariencia y personalidad."
+  },
+  "mechanics": {
+    "overviewTitle": "Kit y mecánicas de Shorekeeper — habilidades, rotación y definitiva",
+    "overviewDescription": "Aprende cómo funciona el kit de Shorekeeper, incluida su habilidad de Intro, Intro mejorada, definitiva, habilidades y la mejor rotación para mantener sus buffs activos."
+  },
+  "items": {
+    "overviewTitle": "Objetos y builds de Shorekeeper — arma, ecos y materiales",
+    "overviewDescription": "Planifica la build de Shorekeeper con su arma exclusiva, mejores ecos, build de ecos, materiales de ascensión y lista completa de materiales de farmeo."
+  },
+  "teams": {
+    "overviewTitle": "Equipos de Shorekeeper — mejores composiciones, sinergia con Jinhsi y Chisa",
+    "overviewDescription": "Encuentra las mejores composiciones con Shorekeeper, incluidos los emparejamientos con Jinhsi y Chisa, además de consejos por rol para los puestos de sanadora y soporte."
+  },
+  "updates": {
+    "overviewTitle": "Novedades de Shorekeeper — rerun, banner y fecha de lanzamiento",
+    "overviewDescription": "Sigue las noticias del rerun de Shorekeeper, el calendario de banners, la fecha de lanzamiento y si vale la pena invocar su Nodo de Secuencia S1."
+  },
+  "media": {
+    "overviewTitle": "Multimedia de Shorekeeper — fondos, fanart, OST y tema",
+    "overviewDescription": "Explora fondos de pantalla, fanart, arte oficial, su OST y tema de Shorekeeper para descargar e inspirar tu escritorio."
+  },
+  "home": {
+    "meta": {
+      "title": "Shorekeeper Wiki - Builds, equipos y materiales",
+      "description": "Explora Shorekeeper Wiki para encontrar las mejores builds, armas, ecos, materiales, habilidades, equipos y guías de juego para jugadores de Wuthering Waves."
+    },
+    "hero": {
+      "eyebrow": "Guía de Resonadora de apoyo de 5 estrellas",
+      "title": "Shorekeeper Wiki",
+      "description": "Guía completa de Shorekeeper que cubre builds, armas, ecos, materiales, equipos, habilidades y consejos de juego para jugadores de Wuthering Waves.",
+      "stats": [
+        "Más de 10M de jugadores",
+        "Personaje de 5 estrellas",
+        "0 códigos activos",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía de build",
+      "secondaryCta": "Composiciones",
+      "tertiaryCta": "Guía de farmeo",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje con Shorekeeper",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "¿Nuevo con Shorekeeper? Aprende su rol de soporte, las prioridades de build de regeneración de energía y la rotación de colocar campo y cambiar antes de gastar un solo Waveplate."
+        },
+        {
+          "number": "2",
+          "title": "Farmeo de materiales",
+          "description": "Planifica cada fase de ascensión y mejora de Forte con un orden de farmeo eficiente en Waveplate para botines de jefes, especialidades y materiales de enemigos."
+        },
+        {
+          "number": "3",
+          "title": "Mejores composiciones",
+          "description": "Descubre los núcleos de daño que más se benefician de sus buffs de crítico, desde Jinhsi y Camellya hasta Carlotta y Jiyan."
+        },
+        {
+          "number": "4",
+          "title": "Guía de build de ecos",
+          "description": "Elige entre Rejuvenating Glow y Moonlit Clouds, y fija las estadísticas principales de regeneración de energía y HP con las que escalan sus buffs."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Build de Shorekeeper",
+        "Farmeo de materiales",
+        "Composiciones",
+        "Conjuntos de ecos",
+        "Guía de rotación"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía rápida de Shorekeeper",
+          "description": "Su rol, mejores armas, conjuntos de ecos, equipos y hábitos de rotación en una lectura breve.",
+          "href": "/guide/shorekeeper-quick-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de build de Shorekeeper",
+          "description": "Prioridades de estadísticas, conjuntos de ecos, armas y composiciones para una build de soporte totalmente ajustada.",
+          "href": "/guide/shorekeeper-build-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Materiales de Shorekeeper",
+          "description": "Todos los materiales de ascensión y Forte, dónde se obtienen y el orden de farmeo más inteligente.",
+          "href": "/items/shorekeeper-materials"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Composiciones con Shorekeeper",
+          "description": "Los mejores emparejamientos de daño, pasos de rotación y sustitutos económicos para cada plantilla.",
+          "href": "/teams/shorekeeper-team-comp"
+        },
+        {
+          "badge": "Popular",
+          "title": "Ecos de Shorekeeper",
+          "description": "Mejores conjuntos, estadísticas principales y prioridades de subestadísticas para su build de soporte.",
+          "href": "/items/shorekeeper-echoes"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Armas de Shorekeeper",
+          "description": "Compara Stellar Symphony con opciones de Rectificador gratuitas y económicas.",
+          "href": "/items/shorekeeper-weapon"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Rotación de Shorekeeper",
+          "description": "La secuencia de colocar campo y cambiar que mantiene sus buffs sin desperdiciar tiempo en campo.",
+          "href": "/mechanics/shorekeeper-rotation"
+        },
+        {
+          "badge": "Popular",
+          "title": "Historia y lore de Shorekeeper",
+          "description": "Su pasado en las Black Shores, su vínculo con Rover y arte oficial.",
+          "href": "/characters/shorekeeper-personality"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Shorekeeper?",
+      "paragraphs": [
+        "Shorekeeper es una Resonadora de Espectro de 5 estrellas limitada en Wuthering Waves que usa un Rectificador y ocupa el puesto de sanadora y soporte. En lugar de buscar daño propio, mantiene vivo al equipo con curación continua y amplifica a cada DPS con buffs de probabilidad y daño crítico para todo el equipo.",
+        "Su campo exclusivo Stellarealm sigue al personaje activo, así que nunca obliga a una posición fija, y sus buffs escalan con la regeneración de energía en lugar del ATK. Ese diseño la convierte en una de las unidades de sostenimiento más flexibles del juego y en la razón de que aparezca en tantas composiciones de endgame."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Kuro Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC, móvil y PS5"
+        },
+        {
+          "label": "Género",
+          "value": "RPG de acción de mundo abierto"
+        },
+        {
+          "label": "Elemento",
+          "value": "Espectro"
+        },
+        {
+          "label": "Arma",
+          "value": "Rectificador"
+        },
+        {
+          "label": "Rol",
+          "value": "Sanadora y soporte"
+        },
+        {
+          "label": "Rareza",
+          "value": "5 estrellas"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Shorekeeper Wiki",
+      "description": "Todas las guías esenciales de Shorekeeper en un solo lugar: builds, materiales, equipos, habilidades, ecos, armas, consejos para principiantes e historia, cada una con lo clave al principio.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de build de Shorekeeper",
+          "description": "Este módulo cubre las builds recomendadas de Shorekeeper, incluidas armas, elección de ecos, estadísticas, prioridades de habilidades y configuración de soporte. Está dirigido a jugadores que buscan la mejor forma de optimizar al personaje tras obtenerla.",
+          "href": "/guide/shorekeeper-build-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rol",
+              "detail": "Sanadora y soporte de Espectro que potencia a todo el equipo"
+            },
+            {
+              "label": "Estadísticas",
+              "detail": "Primero regeneración de energía, luego HP% y bono de curación"
+            },
+            {
+              "label": "Arma",
+              "detail": "Stellar Symphony lidera, con fuertes alternativas gratuitas"
+            },
+            {
+              "label": "Ecos",
+              "detail": "Rejuvenating Glow o Moonlit Clouds según la rotación"
+            },
+            {
+              "label": "Rotación",
+              "detail": "Coloca su campo, transmite el buff de crítico y cambia rápido"
+            },
+            {
+              "label": "Equipos",
+              "detail": "Encaja con núcleos de Jinhsi, Camellya, Carlotta y Jiyan"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de materiales de Shorekeeper",
+          "description": "Este módulo ofrece una guía completa de farmeo para los materiales de mejora de Shorekeeper, incluidos objetos de ascensión, recursos de mejora de habilidades y requisitos de preparación. Ayuda a planificar recursos antes de subir al personaje.",
+          "href": "/items/shorekeeper-materials",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Botín de jefe",
+              "detail": "Material de jefe de ascensión obtenido en el desafío de jefe del mundo abierto"
+            },
+            {
+              "label": "Botín",
+              "detail": "Botines de Tacet Discord de LF a FF que se convierten hacia arriba en el Sintetizador"
+            },
+            {
+              "label": "Especialidad",
+              "detail": "Especialidad regional recolectada en una ruta diaria por el mundo abierto"
+            },
+            {
+              "label": "Créditos",
+              "detail": "Los créditos Shell financian ascensión, Forte, armas y sintonización de ecos"
+            },
+            {
+              "label": "Forte",
+              "detail": "Materiales del Desafío de falsificación y del jefe semanal para mejorar habilidades"
+            },
+            {
+              "label": "Waveplate",
+              "detail": "Unos 240 Waveplate al día marcan tu ritmo de farmeo"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de equipos de Shorekeeper",
+          "description": "Este módulo explica las composiciones de equipo recomendadas, los Resonadores compatibles y las rotaciones de soporte para Shorekeeper. Se centra en ayudar a los jugadores a entender dónde encaja en distintos equipos de combate.",
+          "href": "/teams/shorekeeper-team-comp",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jinhsi",
+              "detail": "Carry de Espectro que convierte el campo de Shorekeeper en una ventana de ráfaga"
+            },
+            {
+              "label": "Camellya",
+              "detail": "DPS de Havoc que prospera con un buff constante de probabilidad de crítico"
+            },
+            {
+              "label": "Carlotta",
+              "detail": "Carry de ráfaga de Glacio respaldado por curación ininterrumpida"
+            },
+            {
+              "label": "Jiyan",
+              "detail": "Hipercarry de Aero con una rotación rápida y afín a los buffs"
+            },
+            {
+              "label": "Económico",
+              "detail": "Los soportes de cuatro estrellas y las armas gratuitas abaratan la composición"
+            },
+            {
+              "label": "Rotación",
+              "detail": "Habilidad, Forte, Liberación, Outro: cede el turno antes de que se agote el tiempo en campo"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de habilidades de Shorekeeper",
+          "description": "Este módulo explica las habilidades de Shorekeeper, el Circuito Forte, la habilidad de Resonancia, la Liberación de Resonancia y las prioridades de mejora de habilidades. Ayuda tanto a jugadores nuevos como experimentados a entender sus mecánicas de combate.",
+          "href": "/mechanics/shorekeeper-abilities",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Habilidad",
+              "detail": "La habilidad de Resonancia despliega un campo de curación alrededor del personaje activo"
+            },
+            {
+              "label": "Forte",
+              "detail": "Discernment convierte el recurso almacenado en curación y buffs mejorados"
+            },
+            {
+              "label": "Definitiva",
+              "detail": "La Liberación de Resonancia cura al equipo y abre su campo de buff de crítico"
+            },
+            {
+              "label": "Outro",
+              "detail": "Transmite un buff de probabilidad de crítico al Resonador que entra"
+            },
+            {
+              "label": "Intro",
+              "detail": "Inflige daño al entrar y añade un efecto de apoyo"
+            },
+            {
+              "label": "Pasiva",
+              "detail": "Las habilidades inherentes añaden curación y bonos de regeneración de energía gratis"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de ecos de Shorekeeper",
+          "description": "Este módulo cubre los conjuntos de ecos recomendados, estadísticas principales, subestadísticas y prioridades de farmeo de ecos para Shorekeeper. Está dirigido a búsquedas relacionadas con builds de ecos y optimización de endgame.",
+          "href": "/items/shorekeeper-echoes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Rejuvenating Glow: buff de ATK en equipo al curar y la opción por defecto"
+            },
+            {
+              "label": "A",
+              "detail": "Moonlit Clouds: mayor aumento de ATK de Outro para equipos de cambio rápido"
+            },
+            {
+              "label": "B",
+              "detail": "Conjuntos mixtos de 2 piezas: un sustituto económico mientras farmeas el conjunto completo"
+            },
+            {
+              "label": "C",
+              "detail": "Builds de daño Espectro y crítico: poco valor en un soporte puro"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de armas de Shorekeeper",
+          "description": "Este módulo compara los Rectificadores recomendados para Shorekeeper, incluidas opciones exclusivas y alternativas para distintos presupuestos. Ayuda a elegir el equipo de forma eficiente.",
+          "href": "/items/shorekeeper-weapon",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Stellar Symphony",
+              "detail": "Rectificador exclusivo de 5 estrellas con regeneración de energía y buffs de equipo"
+            },
+            {
+              "label": "Jinzhou Keeper",
+              "detail": "Rectificador de 4 estrellas gratuito que ayuda a que su Liberación vuelva antes"
+            },
+            {
+              "label": "Variation",
+              "detail": "Opción de 4 estrellas de regeneración de energía que potencia el escalado de sus buffs de crítico"
+            },
+            {
+              "label": "Call of the Abyss",
+              "detail": "Alternativa de 5 estrellas cuando el banner exclusivo queda fuera de alcance"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía para principiantes de Shorekeeper",
+          "description": "Este módulo presenta el rol de Shorekeeper, los conceptos básicos de juego, el flujo de rotación y las prioridades de inversión para principiantes. Está diseñado para jugadores que acaban de obtener al personaje.",
+          "href": "/guide/shorekeeper-quick-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Súbela a nivel 90 como tu único sostenimiento antes de buscar equipo de daño"
+            },
+            {
+              "label": "2",
+              "detail": "Acumula regeneración de energía hasta que sus buffs de crítico alcancen el tope"
+            },
+            {
+              "label": "3",
+              "detail": "Equipa un Rectificador con subestadística de regeneración de energía"
+            },
+            {
+              "label": "4",
+              "detail": "Prioriza las mejoras de Liberación de Resonancia y Circuito Forte"
+            },
+            {
+              "label": "5",
+              "detail": "Practica la rotación de campo y cambio para que los buffs nunca se caigan"
+            },
+            {
+              "label": "6",
+              "detail": "Farmea materiales de ascensión en el orden que indica la pestaña de Ascensión"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de historia de Shorekeeper",
+          "description": "Este módulo cubre los antecedentes oficiales del personaje Shorekeeper, información de la historia y materiales promocionales oficiales. Está dirigido a usuarios que buscan lore y detalles del personaje.",
+          "href": "/characters/shorekeeper-personality",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lore",
+              "detail": "Guardiana de las Black Shores ligada a los sistemas que hacen funcionar la región"
+            },
+            {
+              "label": "Rover",
+              "detail": "Su vínculo con Rover impulsa la historia de las Black Shores"
+            },
+            {
+              "label": "Facción",
+              "detail": "La facción de las Black Shores y su papel en Solaris-3"
+            },
+            {
+              "label": "Voz",
+              "detail": "Conoce a la actriz de voz detrás de su interpretación calmada y mesurada"
+            },
+            {
+              "label": "Arte",
+              "detail": "Arte oficial, fondos de pantalla y su tema de personaje"
+            },
+            {
+              "label": "Cumpleaños",
+              "detail": "Su cumpleaños y los detalles que los fans siguen cada año"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Shorekeeper",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Shorekeeper, desde su rol y build hasta equipos y lanzamiento.",
+      "items": [
+        {
+          "question": "¿Qué es Shorekeeper en Wuthering Waves?",
+          "answer": "Shorekeeper es una Resonadora de Espectro de 5 estrellas limitada que usa un Rectificador y ocupa el puesto de sanadora y soporte. Mantiene al equipo con curación continua y eleva su techo de daño con buffs de probabilidad y daño crítico para todo el equipo."
+        },
+        {
+          "question": "¿Qué estadísticas necesita más Shorekeeper?",
+          "answer": "La regeneración de energía es la prioridad porque sus buffs de crítico escalan con ella. Después, sube HP% y bono de curación para curar más, y considera las estadísticas de crítico casi inútiles en ella."
+        },
+        {
+          "question": "¿Cuál es la mejor arma de Shorekeeper?",
+          "answer": "Stellar Symphony, su Rectificador exclusivo de 5 estrellas, es la mejor opción. Jinzhou Keeper y Variation son alternativas gratuitas y económicas que siguen aportando la regeneración de energía que necesita."
+        },
+        {
+          "question": "¿Qué equipos funcionan mejor con Shorekeeper?",
+          "answer": "Shorekeeper encaja en casi cualquier núcleo de daño porque sus buffs son independientes del elemento. Los equipos de Jinhsi, Camellya, Carlotta y Jiyan se benefician de emparejarla con un segundo buffer o un carry dedicado."
+        },
+        {
+          "question": "¿Qué conjunto de ecos debería usar Shorekeeper?",
+          "answer": "Rejuvenating Glow es la opción segura por defecto gracias a su buff de ATK en equipo al curar, mientras que Moonlit Clouds es más fuerte en rotaciones rápidas de cambio que activan su habilidad Outro con frecuencia."
+        },
+        {
+          "question": "¿Cuándo se lanzó Shorekeeper?",
+          "answer": "Shorekeeper debutó en la primera fase de la versión 1.3 de Wuthering Waves a finales de septiembre de 2024 como banner limitado de 5 estrellas."
+        },
+        {
+          "question": "¿Vale la pena construir a Shorekeeper?",
+          "answer": "Sí. Sustituye a la vez a una sanadora y a un buffer en un solo puesto, lo que libera un hueco para daño extra y la convierte en uno de los soportes más valiosos del juego."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar a Shorekeeper?",
+      "description": "Desde tu primera build hasta las composiciones de endgame, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas de Wuthering Waves.",
+      "primary": "Leer la guía de Shorekeeper",
+      "secondary": "Jugar a Wuthering Waves"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Últimas novedades",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todas las novedades",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Shorekeeper Wiki",
+    "about": "Shorekeeper Wiki es un centro de guías independiente hecho por fans que cubre builds, armas, ecos, materiales, equipos, habilidades y conocimientos esenciales de Wuthering Waves tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Shorekeeper Wiki. No está afiliado a Kuro Games ni a Wuthering Waves.",
+    "description": "RPG de acción de mundo abierto de Kuro Games. Domina las builds, ecos y composiciones de Shorekeeper en Wuthering Waves.",
+    "playGame": "Jugar a Wuthering Waves",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Planificador de equipos de WuWa",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio",
+    "mechanicsGuides": "Guías de Resonadores",
+    "teamGuides": "Guías de jefes",
+    "itemGuides": "Guía de build"
+  }
+}

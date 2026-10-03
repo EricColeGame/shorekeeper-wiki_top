@@ -72,10 +72,11 @@ export async function SiteFooter({ locale }: { locale: string }) {
 function FooterList({ locale, title, links }: { locale: string; title: string; links: string[][] }) { return <div><h4 className="font-semibold text-foreground">{title}</h4><ul className="mt-3 space-y-2 text-sm text-muted-foreground">{links.map(([label, href]) => <li key={href}><Link className="hover:text-foreground" href={href.startsWith("/") ? localizeHref(href, locale) : href}>{label}</Link></li>)}</ul></div>; }
 
 export function TrailerCard({ videoId }: { videoId: string }) {
+  const trailerCoverFallback = "/images/hero-trailer-thumbnail.jpg";
   return (
     <div className="group relative cursor-pointer overflow-hidden rounded-2xl border border-border shadow-lg transition-all duration-200">
       <div className="relative aspect-video w-full">
-        <img src={videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : "/images/hero.webp"} alt={`${siteConfig.name} official trailer`} className="size-full object-cover transition-all duration-200 group-hover:brightness-80" onError={(e) => { (e.target as HTMLImageElement).src = "/images/hero.webp"; }} />
+        <img src={videoId ? `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg` : trailerCoverFallback} alt={`${siteConfig.name} official trailer`} className="size-full object-cover transition-all duration-200 group-hover:brightness-80" onError={(e) => { const img = e.target as HTMLImageElement; if (videoId && img.dataset.fallback !== "hq") { img.dataset.fallback = "hq"; img.src = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`; } else { img.src = trailerCoverFallback; } }} />
       </div>
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="flex size-20 items-center justify-center rounded-full bg-primary/10 backdrop-blur-md transition-transform duration-200 group-hover:scale-105 sm:size-24">

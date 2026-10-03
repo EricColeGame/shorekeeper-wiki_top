@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to Shorekeeper? Learn her support role, Energy Regen build priorities, and the field-and-swap rotation before you spend a single Waveplate."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Materials Farming",
+          "description": "Plan every ascension phase and Forte upgrade with a Waveplate-efficient farming order for boss drops, specialties, and enemy materials."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Team Comps",
+          "description": "See the damage cores that benefit most from her Crit buffs, from Jinhsi and Camellya to Carlotta and Jiyan."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Shorekeeper."
+          "title": "Echo Build Guide",
+          "description": "Pick between Rejuvenating Glow and Moonlit Clouds, then lock in the Energy Regen and HP main stats her buffs scale with."
         }
       ]
     },
@@ -66,265 +66,386 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Shorekeeper Build",
+        "Materials Farming",
+        "Team Comps",
+        "Echo Sets",
+        "Rotation Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Shorekeeper Quick Guide",
+          "description": "Her role, best weapons, Echo sets, teams, and rotation habits in one short read.",
+          "href": "/guide/shorekeeper-quick-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Shorekeeper Build Guide",
+          "description": "Stat priorities, Echo sets, weapons, and team comps for a fully tuned support build.",
+          "href": "/guide/shorekeeper-build-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Shorekeeper Materials",
+          "description": "Every ascension and Forte material, where it drops, and the smartest farming order.",
+          "href": "/items/shorekeeper-materials"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Shorekeeper Team Comps",
+          "description": "Top damage pairings, rotation steps, and budget swaps for every roster.",
+          "href": "/teams/shorekeeper-team-comp"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Shorekeeper Echoes",
+          "description": "Best sets, main stats, and substat priorities for her support build.",
+          "href": "/items/shorekeeper-echoes"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Shorekeeper Weapons",
+          "description": "Compare Stellar Symphony with free and budget Rectifier picks.",
+          "href": "/items/shorekeeper-weapon"
+        },
+        {
+          "badge": "New",
+          "title": "Shorekeeper Rotation",
+          "description": "The field-then-swap sequence that keeps her buffs up without wasting field time.",
+          "href": "/mechanics/shorekeeper-rotation"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Shorekeeper Story & Lore",
+          "description": "Her Black Shores background, bond with the Rover, and official art.",
+          "href": "/characters/shorekeeper-personality"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Shorekeeper?",
       "paragraphs": [
-        "Shorekeeper is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Shorekeeper is a limited 5-star Spectro Resonator in Wuthering Waves who wields a Rectifier and fills the healer-support slot. Rather than chasing personal damage, she keeps the team alive with continuous healing and amplifies every damage dealer with team-wide Crit Rate and Crit DMG buffs.",
+        "Her signature Stellarealm field follows the active character, so she never forces a fixed position, and her buffs scale with Energy Regen instead of ATK. That design makes her one of the most flexible sustain units in the game and the reason she appears in so many endgame team compositions."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Kuro Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC, Mobile & PS5"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Open-World Action RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Element",
+          "value": "Spectro"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Weapon",
+          "value": "Rectifier"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Role",
+          "value": "Healer & Support"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Rarity",
+          "value": "5-Star"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Shorekeeper Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every core Shorekeeper guide in one place: builds, materials, teams, skills, Echoes, weapons, beginner tips, and story, each with the key facts up front.",
       "modules": [
         {
           "order": 1,
-          "name": "Shorekeeper Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/Shorekeeper-codes",
-          "displayType": "code-box",
+          "name": "Shorekeeper Build Guide",
+          "description": "This module covers the recommended Shorekeeper builds, including weapons, Echo choices, stats, skill priorities, and support setup. It targets players searching for the best way to optimize this character after obtaining her.",
+          "href": "/guide/shorekeeper-build-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Role",
+              "detail": "Spectro healer and support who buffs the whole team"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Stats",
+              "detail": "Energy Regen first, then HP% and Healing Bonus"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Weapon",
+              "detail": "Stellar Symphony leads, with strong free alternatives"
+            },
+            {
+              "label": "Echoes",
+              "detail": "Rejuvenating Glow or Moonlit Clouds depending on rotation"
+            },
+            {
+              "label": "Rotation",
+              "detail": "Drop her field, pass the Crit buff, then swap out fast"
+            },
+            {
+              "label": "Teams",
+              "detail": "Fits Jinhsi, Camellya, Carlotta, and Jiyan cores"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/Shorekeeper-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Shorekeeper Materials Guide",
+          "description": "This module provides a complete farming guide for Shorekeeper upgrade materials, including ascension items, skill upgrade resources, and preparation requirements. It helps players plan resources before leveling the character.",
+          "href": "/items/shorekeeper-materials",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Boss Drop",
+              "detail": "Ascension boss material claimed from the open-world Boss Challenge"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Drops",
+              "detail": "LF to FF Tacet Discord drops that convert upward at the Synthesizer"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Specialty",
+              "detail": "Regional specialty gathered on a daily open-world route"
+            },
+            {
+              "label": "Credits",
+              "detail": "Shell Credits fund ascension, Forte, weapons, and Echo tuning"
+            },
+            {
+              "label": "Forte",
+              "detail": "Forgery Challenge and weekly boss materials for skill upgrades"
+            },
+            {
+              "label": "Waveplate",
+              "detail": "Roughly 240 Waveplate a day sets your farming pace"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/Shorekeeper-tier-list",
-          "displayType": "tier-grid",
+          "name": "Shorekeeper Team Guide",
+          "description": "This module explains recommended team compositions, compatible Resonators, and support rotations for Shorekeeper. It focuses on helping players understand where she fits in different combat teams.",
+          "href": "/teams/shorekeeper-team-comp",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Jinhsi",
+              "detail": "Spectro carry who turns Shorekeeper's field into a burst window"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Camellya",
+              "detail": "Havoc DPS that thrives with a constant Crit Rate buff"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Carlotta",
+              "detail": "Glacio burst carry backed by uninterrupted healing"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Jiyan",
+              "detail": "Aero hypercarry with a fast, buff-friendly rotation"
+            },
+            {
+              "label": "Budget",
+              "detail": "Four-star supports and free weapons keep the shell cheap"
+            },
+            {
+              "label": "Rotation",
+              "detail": "Skill, Forte, Liberation, Outro: hand off before field time runs out"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/Shorekeeper-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Shorekeeper Skills Guide",
+          "description": "This module explains Shorekeeper's abilities, Forte Circuit, Resonance Skill, Resonance Liberation, and skill upgrade priorities. It helps both new and experienced players understand her combat mechanics.",
+          "href": "/mechanics/shorekeeper-abilities",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Skill",
+              "detail": "Resonance Skill deploys a healing field around the active character"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Forte",
+              "detail": "Discernment converts stored resource into enhanced healing and buffs"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Ultimate",
+              "detail": "Resonance Liberation heals the team and opens her Crit buff field"
+            },
+            {
+              "label": "Outro",
+              "detail": "Passes a Crit Rate buff to the Resonator you swap in"
+            },
+            {
+              "label": "Intro",
+              "detail": "Deals damage on entry and adds a support effect"
+            },
+            {
+              "label": "Passive",
+              "detail": "Inherent Skills add free healing and Energy Regen bonuses"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/Shorekeeper-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Shorekeeper Echo Guide",
+          "description": "This module covers recommended Echo sets, main stats, substats, and Echo farming priorities for Shorekeeper. It targets searches related to Echo builds and endgame optimization.",
+          "href": "/items/shorekeeper-echoes",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Rejuvenating Glow - healing-triggered team ATK buff and the default pick"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Moonlit Clouds - bigger Outro ATK boost for fast quick-swap teams"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Mixed 2-piece sets - a budget placeholder while you farm the full set"
+            },
+            {
+              "label": "C",
+              "detail": "Spectro DMG and Crit builds - low value on a pure support"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/Shorekeeper-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Shorekeeper Weapon Guide",
+          "description": "This module compares Shorekeeper's recommended Rectifier weapons, including signature options and alternatives for different player budgets. It helps users choose equipment efficiently.",
+          "href": "/items/shorekeeper-weapon",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Stellar Symphony",
+              "detail": "Signature 5-star Rectifier with Energy Regen and team buffs"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Jinzhou Keeper",
+              "detail": "Free 4-star Rectifier that helps her Liberation come back faster"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Variation",
+              "detail": "4-star Energy Regen option that supports her Crit buff scaling"
+            },
+            {
+              "label": "Call of the Abyss",
+              "detail": "5-star alternative when the signature banner is out of reach"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Shorekeeper Beginner Guide",
+          "description": "This module introduces Shorekeeper's role, gameplay basics, rotation flow, and beginner-friendly investment priorities. It is designed for players who have recently obtained the character.",
+          "href": "/guide/shorekeeper-quick-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Level her to 90 as your solo sustain before chasing damage gear"
+            },
+            {
+              "label": "2",
+              "detail": "Stack Energy Regen until her Crit buffs reach their cap"
+            },
+            {
+              "label": "3",
+              "detail": "Equip a Rectifier with an Energy Regen substat"
+            },
+            {
+              "label": "4",
+              "detail": "Prioritize Resonance Liberation and Forte Circuit upgrades"
+            },
+            {
+              "label": "5",
+              "detail": "Practice the field-then-swap rotation so buffs never drop"
+            },
+            {
+              "label": "6",
+              "detail": "Farm ascension materials in the order the Ascension tab lists"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Shorekeeper Story Guide",
+          "description": "This module covers Shorekeeper's official character background, story information, and official promotional materials. It targets users searching for lore and character details.",
+          "href": "/characters/shorekeeper-personality",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lore",
+              "detail": "Guardian of the Black Shores tied to the systems that run the region"
+            },
+            {
+              "label": "Rover",
+              "detail": "Her bond with the Rover drives the Black Shores storyline"
+            },
+            {
+              "label": "Faction",
+              "detail": "The Black Shores faction and its role in Solaris-3"
+            },
+            {
+              "label": "Voice",
+              "detail": "Meet the voice actor behind her calm, measured delivery"
+            },
+            {
+              "label": "Art",
+              "detail": "Official splash art, wallpapers, and her character theme"
+            },
+            {
+              "label": "Birthday",
+              "detail": "Her birthday and the details fans track each year"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Shorekeeper.",
+      "title": "Shorekeeper FAQ",
+      "description": "Quick answers to the most common Shorekeeper questions, from her role and build to teams and release.",
       "items": [
         {
-          "question": "What is Shorekeeper?",
-          "answer": "Shorekeeper is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Shorekeeper in Wuthering Waves?",
+          "answer": "Shorekeeper is a limited 5-star Spectro Resonator who wields a Rectifier and fills the healer-support slot. She sustains the team with continuous healing and raises its damage ceiling with team-wide Crit Rate and Crit DMG buffs."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What stats does Shorekeeper need most?",
+          "answer": "Energy Regen is the priority because her Crit buffs scale with it. After that, build HP% and Healing Bonus for stronger healing, and treat Crit stats as close to worthless on her."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What is Shorekeeper's best weapon?",
+          "answer": "Stellar Symphony, her signature 5-star Rectifier, is best in slot. Jinzhou Keeper and Variation are strong free and budget options that still provide the Energy Regen she needs."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which teams work best with Shorekeeper?",
+          "answer": "Shorekeeper fits almost any damage core because her buffs are element-agnostic. Jinhsi, Camellya, Carlotta, and Jiyan teams all benefit from pairing her with a second buffer or a dedicated carry."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which Echo set should Shorekeeper use?",
+          "answer": "Rejuvenating Glow is the safe default for its healing-triggered team ATK buff, while Moonlit Clouds is stronger in fast quick-swap rotations that fire her Outro Skill often."
+        },
+        {
+          "question": "When did Shorekeeper release?",
+          "answer": "Shorekeeper debuted in the first phase of Wuthering Waves Version 1.3 in late September 2024 as a limited 5-star banner."
+        },
+        {
+          "question": "Is Shorekeeper worth building?",
+          "answer": "Yes. She replaces both a healer and a buffer in one slot, which frees a team slot for extra damage and makes her one of the most valuable supports in the game."
         }
       ]
     },
